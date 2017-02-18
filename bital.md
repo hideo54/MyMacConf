@@ -70,6 +70,8 @@ Preferences... -> Setting -> "メニューバーにアイコンを表示"をオ�
     * Soft Wrap
     * Tab Length: 4
 
+## [GW-450D2 Driver](http://www.planex.co.jp/support/download/gw-450d2/)
+
 # Console
 
 ## command line tools

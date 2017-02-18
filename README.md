@@ -15,7 +15,7 @@ MacBook Pro mid 2012
 
 ## はじめのはじめ
 
-1. GW-450Dのドライバがサポートしている範囲のmacOSのうち最新のもの(2017/2/18現在: macOS Sierra)をインストール
+1. GW-450D2のドライバがサポートしている範囲のmacOSのうち最新のもの(2017/2/18現在: macOS Sierra)をインストール
 2. *言語を英語に設定*
 3. *DesktopとDocumentsのiCloud同期を有効に*
 
