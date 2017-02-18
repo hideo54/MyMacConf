@@ -136,7 +136,13 @@ DL: AppStore
 
 ## [Node.js LTS & npm](https://nodejs.org/en/download/)
 
+## rmtrash
+
+rmコマンドを叩いても消えずにゴミ箱(`~/.Trash`)に行くようにする
+
 ## n
+
+Node.jsバージョン管理。
 
 `sudo npm install -g n`
 
@@ -145,6 +151,8 @@ DL: AppStore
 `brew install yarn`
 
 ## pyenv
+
+Pythonバージョン管理。
 
 `brew install pyenv`
 
