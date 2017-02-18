@@ -29,4 +29,4 @@ MacBook Pro mid 2012
 
 ## 望ましい設定事項
 
-[wanted.md](https://github.com/hideo54/MyMacConf/blob/master/wanted.md)を参考のこと。
+[wanted.md](https://github.com/hideo54/MyMacConf/blob/master/wanted.md)を参考のこと。 (未執筆)
