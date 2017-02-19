@@ -11,3 +11,5 @@ alias gpso='git push origin'
 alias gl='git log --graph --all --format="%x09%C(cyan bold)%an%Creset%x09%C(yellow)%h%Creset %C(magenta reverse)%d%Creset %s"'
 # gl cf: http://qiita.com/takasianpride/items/842a785af610025a2030
 alias gplo='git pull origin'
+
+source ~/.git-completion.bash
