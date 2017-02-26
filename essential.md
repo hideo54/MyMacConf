@@ -1,77 +1,5 @@
 # Apps
 
-## System Preferences
-
-* Dock
-    * Size: 最大
-    * Position on screen: Left
-    * NOT Double-clicking a window's title bar
-* Security & Privacy
-    * General -> Show a message when the screen is locked -> 適切なポエムを設定
-    * FileVault -> Turn on FileVault
-    * Firewall -> Turn on Firewall
-* Display -> Built-in Display -> NOT show mirroring options in the menu bar when available
-* Energy Saver
-    * Battery -> Display sleep: 5分
-    * Power Adapter -> Computer sleep: 30分
-* Keyboard
-    * Keyboard
-        * Key Repeat: 最速
-        * Delay Until Repeat: 最短
-        * NOT turn keyboard backlight off after any inactivity
-        * Modifier Key -> Caps Lock Key: Control
-    * Text
-        * Disable "Correct spelling automatically"
-        * Disable "Capitalize words automatically"
-        * Disable "Add period with double-space"
-    * Shortcuts -> Spotlight
-        * Show Spotlight search: cmd + space
-        * Disable "Show Finder search window"
-    * Input Sources
-        * Select the previous input source: ctrl + space
-        * Select next source in input menu: shift + ctrl + space
-* Trackpad -> Point & Click
-    * Enable "Look up & data detectors"
-    * Enable "Tap to click"
-* iCloud
-    * Enable Photos (Use iCloud Photo Library)
-    * Enable Notes
-* Internet Accounts
-    * Google -> Log in and enable Calendars
-    * Twitter -> Enable Share Menu
-* Network -> Wi-Fi -> NOT Show Wi-Fi status in menu bar
-* Sharing -> Change Computer Name to "Cocoa"
-* Users & Groups
-    * Password -> hideo54の画像(Dropboxに設置)を変える
-    * Login Items -> "⌘英かな", "KeepingYouAwake"を追加
-* Siri -> NOT show Siri in menu bar
-* Date & Time -> Clock
-        * Enable "Display the time with seconds"
-        * Enable "Show date"
-* Accessibility
-    * Zoom -> Use scroll gesture with modifier keys to zoom: Ctrl
-    * Display -> Cursor size: 2 main degrees from Normal
-
-## Finder
-
-* Finder Preferences
-    * General -> Show on the desktop: 全て選択
-    * Sidebar -> Show in the sidebar
-        * Favorites: AirDrop, Applications, Downloads, Movies, hideo54
-        * Devices: all
-        * Tags: none
-    * Advanced
-        * Show all filename extensions
-        * When performing a search: Search the Current Folder
-* View Options
-    * Icon size: 60 x 60
-    * Text size: 12
-    * Sort by: Kind
-
-## メニューバー
-
-Battery -> Show Percentage
-
 ## [Google Drive](https://www.google.com/intl/ja_ALL/drive/download/)
 
 Preferences -> Sync options -> Google Photoフォルダを同期対象から除外
@@ -127,6 +55,75 @@ DL: AppStore
 ## [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake/releases)
 
 スリープしない設定にするソフト
+
+## System Preferences
+
+* Dock
+    * Size: 最大
+    * Position on screen: Left
+    * NOT Double-clicking a window's title bar
+* Security & Privacy
+    * General -> Show a message when the screen is locked -> 適切なポエムを設定
+    * FileVault -> Turn on FileVault
+    * Firewall -> Turn on Firewall
+* Display -> Built-in Display -> NOT show mirroring options in the menu bar when available
+* Energy Saver
+    * Battery -> Display sleep: 5分
+    * Power Adapter -> Computer sleep: 30分
+* Keyboard
+    * Keyboard
+        * Key Repeat: 最速
+        * Delay Until Repeat: 最短
+        * NOT turn keyboard backlight off after any inactivity
+        * Modifier Key -> Caps Lock Key: Control
+    * Text
+        * Disable "Correct spelling automatically"
+        * Disable "Capitalize words automatically"
+        * Disable "Add period with double-space"
+    * Shortcuts -> Spotlight
+        * Show Spotlight search: cmd + space
+        * Disable "Show Finder search window"
+    * Input Sources
+        * Select the previous input source: ctrl + space
+        * Select next source in input menu: shift + ctrl + space
+* Trackpad -> Point & Click
+    * Enable "Look up & data detectors"
+    * Enable "Tap to click"
+* iCloud
+    * Enable Photos (Use iCloud Photo Library)
+    * Disable Mail, Contacts
+* Internet Accounts
+    * Google -> Log in and enable Calendars
+    * Twitter -> Enable Share Menu
+* Network -> Wi-Fi -> NOT Show Wi-Fi status in menu bar
+* Sharing -> Change Computer Name to "Cocoa"
+* Users & Groups -> Login Items -> "⌘英かな", "KeepingYouAwake"を追加
+* Siri -> NOT show Siri in menu bar
+* Date & Time -> Clock
+    * Enable "Display the time with seconds"
+    * Enable "Show date"
+* Accessibility
+    * Zoom -> Use scroll gesture with modifier keys to zoom: Ctrl
+    * Display -> Cursor size: 2 main degrees from Normal
+
+## Finder
+
+* Finder Preferences
+    * General -> Show on the desktop: 全て選択
+    * Sidebar -> Show in the sidebar
+        * Favorites: AirDrop, Applications, Downloads, Movies, hideo54
+        * Devices: all
+        * Tags: none
+    * Advanced
+        * Show all filename extensions
+        * When performing a search: Search the Current Folder
+* View Options (cmd+J)
+    * Icon size: 60 x 60
+    * Sort by: Kind
+
+## メニューバー
+
+Battery -> Show Percentage
 
 # Console
 
