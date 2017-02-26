@@ -2,6 +2,7 @@
 PS1="\[\e[37m\e[45m\][\t \u@\h \W\[\e[0m\]\n$ "
 
 alias la='ls -a'
+alias rm='rmtrash'
 
 # git commands
 alias ga='git add'
