@@ -56,6 +56,7 @@ Preferences... -> Setting -> "メニューバーにアイコンを表示"をオ�
 * Preferences -> Profiles
     * Text -> Font -> Change Font -> 18pt Ricty Regular
     * Window -> Transparency -> 適切な値に設定
+    * Terminal -> Scrollback Buffer -> Unlimited scrollback
 
 ## [Atom](https://atom.io/)
 
