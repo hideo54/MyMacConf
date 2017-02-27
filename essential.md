@@ -2,7 +2,9 @@
 
 ## [Google Drive](https://www.google.com/intl/ja_ALL/drive/download/)
 
-Preferences -> Sync options -> Google Photoフォルダを同期対象から除外
+Preferencesから以下のように設定:
+* Sync options -> Google Photoフォルダを同期対象から除外
+* Advanced -> Start Google Drive on system startup
 
 ## Xcode
 
@@ -170,11 +172,9 @@ Pythonバージョン管理。
 
 [bashrc](https://github.com/hideo54/MyMacConf/blob/master/bashrc)を参照
 
-## Generate new SSH key
+## Restore ssh keys
 
-1. `ssh-keygen -t rsa -b 4096 -C "hideo54@Cocoa.local"` (`.ssh/github`として保存)
-2. [GitHubに`.ssh/github.pub`を追加](https://github.com/settings/keys)
-3. `ssh-add ~/.ssh/github`
+`cp ~/Google\ Drive/ssh/* ~/.ssh/`
 
 ## スクリーンショットの場所を変更
 
