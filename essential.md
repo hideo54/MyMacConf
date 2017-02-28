@@ -50,6 +50,10 @@ DL: AppStore
     * Auto-Suggest Stickers Languageに日本語を追加
     * Downloads Folderを`/Users/hideo54/Downloads`に変更
 
+## [fritzing](http://fritzing.org/download/?donation=0)
+
+配線作図ソフト
+
 ## [Clipy](https://github.com/Clipy/Clipy/releases)
 
 クリップボード履歴管理ソフト
@@ -57,6 +61,10 @@ DL: AppStore
 ## [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake/releases)
 
 スリープしない設定にするソフト
+
+## [CloudyTabs](https://github.com/josh-/CloudyTabs)
+
+iCloud Tabsを表示するソフト
 
 ## System Preferences
 
@@ -99,7 +107,7 @@ DL: AppStore
     * Twitter -> Enable Share Menu
 * Network -> Wi-Fi -> NOT Show Wi-Fi status in menu bar
 * Sharing -> Change Computer Name to "Cocoa"
-* Users & Groups -> Login Items -> "⌘英かな", "KeepingYouAwake"を追加
+* Users & Groups -> Login Items -> ⌘英かな, KeepingYouAwake, CloudyTabsを追加
 * Siri -> NOT show Siri in menu bar
 * Date & Time -> Clock
     * Enable "Display the time with seconds"
