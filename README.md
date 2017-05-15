@@ -21,7 +21,7 @@ MacBook Pro mid 2012
 
 ## 極めて重要な設定事項
 
-[bital.md](https://github.com/hideo54/MyMacConf/blob/master/bital.md)を参考のこと。
+[vital.md](https://github.com/hideo54/MyMacConf/blob/master/vital.md)を参考のこと。
 
 ## 必要不可欠な設定事項
 
