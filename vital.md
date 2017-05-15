@@ -7,7 +7,7 @@ Webの閲覧自体はIEとは違いSafariでも満足にできるが、あらゆ
 1. デフォルトのブラウザに設定
 2. Googleアカウントでログイン
 3. 全データを同期
-4. [Enable native notifications](chrome://flags/#enable-native-notifications)
+4. Enable native notifications chrome://flags/#enable-native-notifications
 
 ## [Google IME](https://www.google.co.jp/ime/)
 
