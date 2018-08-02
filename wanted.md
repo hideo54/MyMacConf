@@ -25,6 +25,10 @@ Web開発用。Chromeよりもこちらの方がDeveloper Toolsの質が良い�
 1. `curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash > ~/.git-completion.bash`
 2. `source ~/.git-completion.bash`をbashrcに追加(このリポジトリのbashrcには記入済み)
 
+## ffmpeg
+
+`brew install ffmpeg $(brew options ffmpeg | grep -vE '\s' | grep -- '--with-' | tr '\n' ' ')`
+
 # Sort
 
 機能性には全く変わりないが、アプリ群の配列を好みに合わせたものにした方が精神衛生上都合が良い。以下にそれを記す。
